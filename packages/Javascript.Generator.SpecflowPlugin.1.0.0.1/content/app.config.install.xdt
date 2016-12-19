@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <specFlow xdt:Transform="Remove"/>
+  <specFlow xdt:Transform="Insert" >
+    <plugins>
+		  <add name="Javascript" type="Generator" path="../packages/Javascript.Generator.SpecflowPlugin.1.0.0.1/lib/net451" />
+    </plugins>
+  </specFlow>
+</configuration>

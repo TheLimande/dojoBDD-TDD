@@ -1,0 +1,36 @@
+﻿(function(){
+	featureSteps('Gestion des Virements: Dans le but de pouvoir gérer mes comptes\n'+
+'En tant que client banque\n'+
+'Je souhaite pouvoir effectuer des virements entre mes comptes	\n'+
+'\n'+
+'RG1 : virement simple, je vire X€ d\'un compte A vers le compte B, le solde est impacté dans les deux comptes.\n'+
+'RG2 : virement hors provision, solde A insuffisant\n'+
+'RG3 : virement plafonné')
+	.given('j\'ai un compte cheque avec un solde de (.*)€', function(p0/* Int32 */) {
+		/* Set test logic here */
+	})
+	.given('j\'ai un compte épargne avec un solde de (.*)€', function(p0/* Int32 */) {
+		/* Set test logic here */
+	})
+	.when('j\'effectue un virement de (.*)€ du compte cheque vers le compte épargne', function(p0/* Int32 */) {
+		/* Set test logic here */
+	})
+	.then('le solde du compte cheque est (.*)€', function(p0/* Int32 */) {
+		/* Set test logic here */
+	})
+	.then('le solde du compte épargne est (.*)€', function(p0/* Int32 */) {
+		/* Set test logic here */
+	})
+	.then('le virement est confirmé', function() {
+		/* Set test logic here */
+	})
+	.then('le virement est refusé pour motif hors provision', function() {
+		/* Set test logic here */
+	})
+	.given('la limite de virement est (.*)€', function(p0/* Int32 */) {
+		/* Set test logic here */
+	})
+	.then('le virement est refusé pour motif plafond dépassé', function() {
+		/* Set test logic here */
+	});
+})();

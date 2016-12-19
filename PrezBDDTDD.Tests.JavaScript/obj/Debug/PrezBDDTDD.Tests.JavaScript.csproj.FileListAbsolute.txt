@@ -1,0 +1,1 @@
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.csprojResolveAssemblyReference.cache
