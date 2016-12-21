@@ -63,6 +63,10 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Model\Compte.cs" />
+    <Compile Include="Model\Context.cs" />
+    <Compile Include="Steps\GestionDesVirementsGivenSteps.cs" />
+    <Compile Include="Steps\GestionDesVirementsThenSteps.cs" />
+    <Compile Include="Steps\GestionDesVirementsWhenSteps.cs" />
     <Compile Include="Steps\GestionDesVirementsSteps.cs" />
     <Compile Include="Process\ServiceVirement.cs" />
     <Compile Include="Process\RetourVirement.cs" />

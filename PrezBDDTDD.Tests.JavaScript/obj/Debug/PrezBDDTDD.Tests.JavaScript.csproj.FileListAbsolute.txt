@@ -1,1 +1,13 @@
 C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.csprojResolveAssemblyReference.cache
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\PrezBDDTDD.Tests.JavaScript.dll.config
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\PrezBDDTDD.Tests.JavaScript.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\PrezBDDTDD.Tests.JavaScript.pdb
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Javascript.Generator.SpecflowPlugin.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\SpecFlow.JavaScript.CodeDom.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\SpecFlow.JavaScript.Generator.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\TechTalk.SpecFlow.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.dll
+C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.pdb

@@ -4,6 +4,7 @@
     {
         Ok,
         SoldeDepasse,
-        PlafondDepasse
+        PlafondDepasse,
+        Ko
     }
 }
