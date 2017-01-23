@@ -11,3 +11,16 @@ C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\TechTalk.SpecFlow.dll
 C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.dll
 C:\DEV\RepetitionBDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.pdb
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\PrezBDDTDD.Tests.JavaScript.dll.config
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\PrezBDDTDD.Tests.JavaScript.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\PrezBDDTDD.Tests.JavaScript.pdb
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Javascript.Generator.SpecflowPlugin.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\SpecFlow.JavaScript.CodeDom.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\SpecFlow.JavaScript.Generator.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\TechTalk.SpecFlow.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.csprojResolveAssemblyReference.cache
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.dll
+C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests.JavaScript\obj\Debug\PrezBDDTDD.Tests.JavaScript.pdb
