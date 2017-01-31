@@ -15,9 +15,9 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      '../Bank/*.js',
-      './Feature/**/*.js',
-      '../Bank.UnitTest/*.js'
+      './Bank/*.js',
+      './Bank.Spec/Feature/**/*.js',
+      './Bank.UnitTest/*.js'
     ],
 
 
