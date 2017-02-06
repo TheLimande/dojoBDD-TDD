@@ -35,6 +35,9 @@
     <Compile Include="Features\Steps\SimpleScenario.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Features\Steps\TransferWithoutProvision.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Features\Steps\UnitTests\ShouldTransferAmount.py">
       <SubType>Code</SubType>
     </Compile>
@@ -49,7 +52,7 @@
     <Folder Include="Features\Steps\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Features\SimpleScenario.feature" />
+    <Content Include="Features\Scenario.feature" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

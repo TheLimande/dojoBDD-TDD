@@ -6,8 +6,11 @@ class service_transfer(object):
 
     
     def doTransfer(self, amount, currentAccount, savingAccount):
-        currentAccount.balance -= amount
-        savingAccount.balance += amount
-        self.ret = "Done"
+        if amount <= currentAccount.balance:
+            currentAccount.balance -= amount
+            savingAccount.balance += amount
+            self.ret = "Done"
+        else:
+            self.ret = "Error_Amount_Exceeded"
         return self.ret
 

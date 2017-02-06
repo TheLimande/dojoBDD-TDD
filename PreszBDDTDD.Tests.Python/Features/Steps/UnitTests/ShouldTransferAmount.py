@@ -41,7 +41,18 @@ class Test_ShouldTransferAmount(unittest.TestCase):
         ret = svr.doTransfer(100, current_account, saving_account)
         self.assertEqual("Done", svr.ret)
 
+    def test_DoNotTransferIfAmountExceeded(self):
+         # Arrange
+        svr = service_transfer()
+        current_account = account()
+        saving_account = account()
+        current_account.balance = 100
 
+        # Act
+        ret = svr.doTransfer(200, current_account, saving_account)
+ 
+        # Assert
+        self.assertEqual("Error_Amount_Exceeded", svr.ret)
   
     
 
