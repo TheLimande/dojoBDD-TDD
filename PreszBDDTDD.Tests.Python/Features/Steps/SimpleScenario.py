@@ -3,8 +3,8 @@ from nose.tools import *
 from Model.account import account
 from Model.service_transfer import service_transfer
 
-
-svr = service_transfer()
+max_tranfer = 2000
+svr = service_transfer(max_tranfer)
 current_account = account()
 saving_account = account()
   

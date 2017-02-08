@@ -15,3 +15,12 @@ Feature: Management of transfer orders for Bank customer
 		Then the current account is equal to 50 euros
 		Then the saving account is equal to 1000 euros
 		Then the transfer is refused because not enough provision
+
+	Scenario: Capped transfer
+		Given I have a current account with a balance of 1000 euros
+		Given I have a saving account with a balance of 0 euros
+		Given the tranfer from account is limited to 500 euros
+		When I transfer 2001 euros from the current account to my saving account
+		Then the current account is equal to 1000 euros
+		Then the saving account is equal to 0 euros
+		Then the transfer is refused because capped tranfer is reached

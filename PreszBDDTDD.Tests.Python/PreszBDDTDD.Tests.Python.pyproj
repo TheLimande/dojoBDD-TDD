@@ -23,6 +23,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Features\Steps\CappedTransfer.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Features\Steps\Model\account.py">
       <SubType>Code</SubType>
     </Compile>
