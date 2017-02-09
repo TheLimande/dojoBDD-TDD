@@ -1,1 +1,16 @@
-C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\obj\Debug\dojoBDD-TDD.Tests.FS.fsproj.dojoBDD_TDD.Tests.FS.exe.config
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\obj\Debug\dojoBDD-TDD.Tests.FS.fsprojResolveAssemblyReference.cache
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\dojoBDD_TDD.Tests.FS.dll.config
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\dojoBDD_TDD.Tests.FS.XML
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\dojoBDD_TDD.Tests.FS.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\dojoBDD_TDD.Tests.FS.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\FSharp.Core.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\FsUnit.MsTest.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\NHamcrest.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\TechTalk.SpecFlow.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\FSharp.Core.xml
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\FsUnit.MsTest.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\FsUnit.MsTest.xml
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\bin\Debug\NHamcrest.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\obj\Debug\dojoBDD_TDD.Tests.FS.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\obj\Debug\dojoBDD_TDD.Tests.FS.pdb

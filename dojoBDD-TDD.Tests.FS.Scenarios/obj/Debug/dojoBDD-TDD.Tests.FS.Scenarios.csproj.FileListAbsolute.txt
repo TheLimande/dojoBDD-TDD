@@ -1,1 +1,14 @@
 C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\obj\Debug\dojoBDD-TDD.Tests.FS.Scenarios.csprojResolveAssemblyReference.cache
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\dojoBDD-TDD.Tests.FS.Scenarios.dll.config
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\dojoBDD-TDD.Tests.FS.Scenarios.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\dojoBDD-TDD.Tests.FS.Scenarios.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\dojoBDD_TDD.Tests.FS.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\TechTalk.SpecFlow.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\FSharp.Core.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\dojoBDD_TDD.Tests.FS.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\dojoBDD_TDD.Tests.FS.xml
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\FSharp.Core.xml
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\obj\Debug\dojoBDD-TDD.Tests.FS.Scenarios.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS.Scenarios\obj\Debug\dojoBDD-TDD.Tests.FS.Scenarios.pdb

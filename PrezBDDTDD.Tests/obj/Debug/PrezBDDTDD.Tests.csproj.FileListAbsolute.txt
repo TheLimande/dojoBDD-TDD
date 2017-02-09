@@ -12,3 +12,10 @@ C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests\bin\Debug\TechTalk.SpecFlow.dll
 C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests\obj\Debug\PrezBDDTDD.Tests.csprojResolveAssemblyReference.cache
 C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests\obj\Debug\PrezBDDTDD.Tests.dll
 C:\Temp\BDD\dojoBDD-TDD\PrezBDDTDD.Tests\obj\Debug\PrezBDDTDD.Tests.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\bin\Debug\PrezBDDTDD.Tests.dll.config
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\bin\Debug\PrezBDDTDD.Tests.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\bin\Debug\PrezBDDTDD.Tests.pdb
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\obj\Debug\PrezBDDTDD.Tests.csprojResolveAssemblyReference.cache
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\obj\Debug\PrezBDDTDD.Tests.dll
+C:\DEV\RepetitionBDD\dojoBDD-TDD\PrezBDDTDD.Tests\obj\Debug\PrezBDDTDD.Tests.pdb
