@@ -1,0 +1,1 @@
+C:\DEV\RepetitionBDD\dojoBDD-TDD\dojoBDD-TDD.Tests.FS\obj\Debug\dojoBDD-TDD.Tests.FS.fsproj.dojoBDD_TDD.Tests.FS.exe.config

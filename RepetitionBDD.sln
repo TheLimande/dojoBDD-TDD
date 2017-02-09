@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PreszBDDTDD.Tests.Python", "PreszBDDTDD.Tests.Python\PreszBDDTDD.Tests.Python.pyproj", "{B77AE215-432C-4EE7-9F24-5AD1BC49ED94}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dojoBDD-TDD.Tests.FS", "dojoBDD-TDD.Tests.FS\dojoBDD-TDD.Tests.FS.fsproj", "{50598091-EF90-4039-A2FA-630D4D35FF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dojoBDD-TDD.Tests.FS.Scenarios", "dojoBDD-TDD.Tests.FS.Scenarios\dojoBDD-TDD.Tests.FS.Scenarios.csproj", "{1DEF27C3-C791-474D-B3BA-5BAB04EC2CF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +34,14 @@ Global
 		{C58D804B-EDA8-4EE2-A6B6-F7634E3A844C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B77AE215-432C-4EE7-9F24-5AD1BC49ED94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B77AE215-432C-4EE7-9F24-5AD1BC49ED94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50598091-EF90-4039-A2FA-630D4D35FF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50598091-EF90-4039-A2FA-630D4D35FF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50598091-EF90-4039-A2FA-630D4D35FF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50598091-EF90-4039-A2FA-630D4D35FF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEF27C3-C791-474D-B3BA-5BAB04EC2CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEF27C3-C791-474D-B3BA-5BAB04EC2CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEF27C3-C791-474D-B3BA-5BAB04EC2CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEF27C3-C791-474D-B3BA-5BAB04EC2CF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
