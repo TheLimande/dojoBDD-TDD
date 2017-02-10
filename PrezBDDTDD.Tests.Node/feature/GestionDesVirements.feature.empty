@@ -1,0 +1,31 @@
+'use strict';
+
+var gherkin = require('node-gherkin-runner');
+gherkin.api.featureSteps(/Gestion des Virements/)
+    .given(/j'ai un compte cheque avec un solde de (\d+)€/, function(solde){
+        
+    })
+    .given(/j'ai un compte épargne avec un solde de (\d+)€/, function(solde){
+
+    })
+    .given(/la limite de virement est (\d+)€/, function(limite){
+
+    })
+    .when(/j'effectue un virement de (\d+)€ du compte cheque vers le compte épargne/, function(versement){
+
+    })
+    .then(/le solde du compte cheque est (\d+)€/, function(nouveauSolde){
+
+    })
+    .then(/le solde du compte épargne est (\d+)€/, function(nouveauSolde1){
+
+    })
+    .then(/le virement est confirmé/, function(){
+
+    })
+    .then(/le virement est refusé pour motif hors provision/, function(){
+
+    })
+    .then(/le virement est refusé pour motif plafond dépassé/, function(){
+
+    });
