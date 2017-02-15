@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'PrezBDDTDDCucumberTests' do
+pod 'XCFit'
+end
