@@ -155,15 +155,6 @@ class CommonStepDefinitions: NSObject {
             }
 
         }
-        
-        
-        
-        
-        //When/And/But/When I have a current account with a balance of 500 euros
-        MatchAll("^I have a current account with a balance of ([1-9]{*}) euros$") { (args, userInfo) -> Void in
-            let _ = args?[0]
-            
-        }
 
     }
 

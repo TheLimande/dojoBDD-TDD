@@ -10,22 +10,6 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PrezBDDTDDCucumberTests/CommonStepDefinitions.swift"
-            timestampString = "508781856.513517"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "164"
-            endingLineNumber = "164"
-            landmarkName = "setup(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PrezBDDTDDCucumberTests/CommonStepDefinitions.swift"
             timestampString = "508782011.400448"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
@@ -38,23 +22,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PrezBDDTDDCucumberTests/PrezBDDTDDCucumberTests.swift"
-            timestampString = "508785259.656739"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "CucumberishSwiftInit()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
@@ -65,38 +33,32 @@
             endingLineNumber = "19"
             landmarkName = "GestionDesVirementsSteps()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #1)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.92145"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "19"
-                  endingLineNumber = "19"
-                  offsetFromSymbolStart = "29">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #1)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.922832"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "19"
-                  endingLineNumber = "19"
-                  offsetFromSymbolStart = "219">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrezBDDTDDCucumberTests/GestionDesVirementsGivenSteps.swift"
+            timestampString = "509905786.53003"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "GestionDesVirementsGivenSteps()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -105,46 +67,30 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-            timestampString = "508785615.373151"
+            filePath = "Pods/Cucumberish/Cucumberish/Core/Managers/CCIStepsManager.m"
+            timestampString = "509907963.284808"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "GestionDesVirementsSteps()"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "-findDefinitionForStep:amongDefinitions:inTestCase:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #2)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.924814"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "27"
-                  endingLineNumber = "27"
-                  offsetFromSymbolStart = "29">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #2)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.927964"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "27"
-                  endingLineNumber = "27"
-                  offsetFromSymbolStart = "219">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Cucumberish/Cucumberish/Core/Managers/CCIStepsManager.m"
+            timestampString = "509963015.958802"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "-findDefinitionForStep:amongDefinitions:inTestCase:"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -153,46 +99,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-            timestampString = "508785615.373151"
+            filePath = "Pods/Cucumberish/Cucumberish/Core/Managers/CCIStepsManager.m"
+            timestampString = "509968533.620272"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "GestionDesVirementsSteps()"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "-findDefinitionForStep:amongDefinitions:inTestCase:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #3)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.931499"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "29">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #3)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.933634"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "34"
-                  endingLineNumber = "34"
-                  offsetFromSymbolStart = "219">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -201,46 +115,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-            timestampString = "508785827.161138"
+            filePath = "Pods/Cucumberish/Cucumberish/Core/Managers/CCIStepsManager.m"
+            timestampString = "509968548.895168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
-            landmarkName = "GestionDesVirementsSteps()"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "-findDefinitionForStep:amongDefinitions:inTestCase:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.GestionDesVirementsSteps () -&gt; ()"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.93618"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "29">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PrezBDDTDDCucumberTests.GestionDesVirementsSteps.(GestionDesVirementsSteps () -&gt; ()).(closure #1)"
-                  moduleName = "PrezBDDTDDCucumberTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/yann.breleur/dojoBDD-TDD/PresBDDTDD.Tests.IOSSwift/PrezBDDTDD/PrezBDDTDDCucumberTests/GestionDesVirementsSteps.swift"
-                  timestampString = "508785835.938148"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "19"
-                  endingLineNumber = "19"
-                  offsetFromSymbolStart = "29">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

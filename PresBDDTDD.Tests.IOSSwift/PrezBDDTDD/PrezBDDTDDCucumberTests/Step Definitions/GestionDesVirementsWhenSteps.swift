@@ -14,11 +14,10 @@ class GestionDesVirementsWhenSteps: NSObject {
     
     func GestionDesVirementsWhenSteps() {
         
-        MatchAll("I tap on home button") { (args, userInfo) -> Void in
-            
-            
-            
+        When("j'effectue un virement de ([0-9]*)€ du compte cheque vers le compte epargne") { (args, userInfo) -> Void in
+            print("virement de 100€ vers compte épargne")
         }
-        
+
+
     }
 }

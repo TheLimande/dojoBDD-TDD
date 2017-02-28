@@ -21,22 +21,19 @@ class PrezBDDTDDCucumberTests: NSObject {
     class func CucumberishSwiftInit()
     {
         var application : XCUIApplication!
+        
         //A closure that will be executed just before executing any of your features
         beforeStart { () -> Void in
             application = XCUIApplication()
             CommonStepDefinitions.setup(application);
-            GestionDesVirementsGivenSteps().GestionDesVirementsGivenSteps()
-            GestionDesVirementsSteps().GestionDesVirementsSteps()
-            GestionDesVirementsThenSteps().GestionDesVirementsThenSteps()
-            GestionDesVirementsWhenSteps().GestionDesVirementsWhenSteps()
         }
         
-        //A Given step definition
-        Given("the app is running") { (args, userInfo) -> Void in
-            application.launch()
-        }
+        GestionDesVirementsGivenSteps().GestionDesVirementsGivenSteps()
+        GestionDesVirementsWhenSteps().GestionDesVirementsWhenSteps()
+        GestionDesVirementsThenSteps().GestionDesVirementsThenSteps()
         
         let bundle = Bundle(for: PrezBDDTDDCucumberTests.self)
         Cucumberish.executeFeatures(inDirectory: "Features", from: bundle, includeTags: nil, excludeTags: nil)
+        
     }
 }
