@@ -7,11 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E2BA66F1E65E471008DD1B7 /* ServiceVirement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7AD1E65A61800F15A1C /* ServiceVirement.swift */; };
 		6E9CB7991E65A12400F15A1C /* GestionDesVirementsGivenSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7951E65A12400F15A1C /* GestionDesVirementsGivenSteps.swift */; };
 		6E9CB79A1E65A12400F15A1C /* GestionDesVirementsSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7961E65A12400F15A1C /* GestionDesVirementsSteps.swift */; };
 		6E9CB79B1E65A12400F15A1C /* GestionDesVirementsThenSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7971E65A12400F15A1C /* GestionDesVirementsThenSteps.swift */; };
 		6E9CB79C1E65A12400F15A1C /* GestionDesVirementsWhenSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7981E65A12400F15A1C /* GestionDesVirementsWhenSteps.swift */; };
 		6E9CB7A11E65A16C00F15A1C /* PrezBDDTDDCucumberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7A01E65A16C00F15A1C /* PrezBDDTDDCucumberTests.m */; };
+		6E9CB7A81E65A39E00F15A1C /* VirementStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7A71E65A39E00F15A1C /* VirementStatus.swift */; };
+		6E9CB7AA1E65A3BD00F15A1C /* Compte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7A91E65A3BD00F15A1C /* Compte.swift */; };
+		6E9CB7AE1E65A61800F15A1C /* ServiceVirement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7AD1E65A61800F15A1C /* ServiceVirement.swift */; };
+		6E9CB7B01E65A9ED00F15A1C /* ContextGestionVirement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7AF1E65A9ED00F15A1C /* ContextGestionVirement.swift */; };
+		6E9CB7B11E65DA3C00F15A1C /* Compte.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7A91E65A3BD00F15A1C /* Compte.swift */; };
+		6E9CB7B21E65DA4B00F15A1C /* VirementStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E9CB7A71E65A39E00F15A1C /* VirementStatus.swift */; };
 		6EF4FF341E530B57001056D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF4FF331E530B57001056D3 /* AppDelegate.swift */; };
 		6EF4FF361E530B57001056D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF4FF351E530B57001056D3 /* ViewController.swift */; };
 		6EF4FF391E530B57001056D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EF4FF371E530B57001056D3 /* Main.storyboard */; };
@@ -53,6 +60,10 @@
 		6E9CB79E1E65A16C00F15A1C /* PrezBDDTDDCucumberTests-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "PrezBDDTDDCucumberTests-Bridging-Header.h"; sourceTree = "<group>"; };
 		6E9CB79F1E65A16C00F15A1C /* PrezBDDTDDCucumberTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrezBDDTDDCucumberTests.h; sourceTree = "<group>"; };
 		6E9CB7A01E65A16C00F15A1C /* PrezBDDTDDCucumberTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrezBDDTDDCucumberTests.m; sourceTree = "<group>"; };
+		6E9CB7A71E65A39E00F15A1C /* VirementStatus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VirementStatus.swift; sourceTree = "<group>"; };
+		6E9CB7A91E65A3BD00F15A1C /* Compte.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Compte.swift; sourceTree = "<group>"; };
+		6E9CB7AD1E65A61800F15A1C /* ServiceVirement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceVirement.swift; sourceTree = "<group>"; };
+		6E9CB7AF1E65A9ED00F15A1C /* ContextGestionVirement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContextGestionVirement.swift; sourceTree = "<group>"; };
 		6EF4FF301E530B57001056D3 /* PrezBDDTDD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrezBDDTDD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EF4FF331E530B57001056D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EF4FF351E530B57001056D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +143,23 @@
 			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		6E9CB7A31E65A34C00F15A1C /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				6E9CB7AD1E65A61800F15A1C /* ServiceVirement.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		6E9CB7A41E65A36000F15A1C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6E9CB7A91E65A3BD00F15A1C /* Compte.swift */,
+				6E9CB7A71E65A39E00F15A1C /* VirementStatus.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		6EF4FF271E530B56001056D3 = {
 			isa = PBXGroup;
 			children = (
@@ -158,6 +186,8 @@
 		6EF4FF321E530B57001056D3 /* PrezBDDTDD */ = {
 			isa = PBXGroup;
 			children = (
+				6E9CB7A41E65A36000F15A1C /* Model */,
+				6E9CB7A31E65A34C00F15A1C /* Service */,
 				6EF4FF331E530B57001056D3 /* AppDelegate.swift */,
 				6EF4FF351E530B57001056D3 /* ViewController.swift */,
 				6EF4FF371E530B57001056D3 /* Main.storyboard */,
@@ -194,6 +224,7 @@
 			isa = PBXGroup;
 			children = (
 				6EF4FF8F1E531638001056D3 /* CommonStepDefinitions.swift */,
+				6E9CB7AF1E65A9ED00F15A1C /* ContextGestionVirement.swift */,
 			);
 			name = Common;
 			sourceTree = "<group>";
@@ -406,7 +437,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				6EF4FF361E530B57001056D3 /* ViewController.swift in Sources */,
+				6E9CB7AE1E65A61800F15A1C /* ServiceVirement.swift in Sources */,
+				6E9CB7A81E65A39E00F15A1C /* VirementStatus.swift in Sources */,
 				6EF4FF341E530B57001056D3 /* AppDelegate.swift in Sources */,
+				6E9CB7AA1E65A3BD00F15A1C /* Compte.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,11 +458,15 @@
 			files = (
 				6E9CB79C1E65A12400F15A1C /* GestionDesVirementsWhenSteps.swift in Sources */,
 				6E9CB7991E65A12400F15A1C /* GestionDesVirementsGivenSteps.swift in Sources */,
+				6E2BA66F1E65E471008DD1B7 /* ServiceVirement.swift in Sources */,
 				6E9CB79B1E65A12400F15A1C /* GestionDesVirementsThenSteps.swift in Sources */,
+				6E9CB7B21E65DA4B00F15A1C /* VirementStatus.swift in Sources */,
+				6E9CB7B11E65DA3C00F15A1C /* Compte.swift in Sources */,
 				6EF4FF871E531638001056D3 /* PrezBDDTDDCucumberTests.swift in Sources */,
 				6EF4FF901E531638001056D3 /* CommonStepDefinitions.swift in Sources */,
 				6E9CB7A11E65A16C00F15A1C /* PrezBDDTDDCucumberTests.m in Sources */,
 				6E9CB79A1E65A12400F15A1C /* GestionDesVirementsSteps.swift in Sources */,
+				6E9CB7B01E65A9ED00F15A1C /* ContextGestionVirement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

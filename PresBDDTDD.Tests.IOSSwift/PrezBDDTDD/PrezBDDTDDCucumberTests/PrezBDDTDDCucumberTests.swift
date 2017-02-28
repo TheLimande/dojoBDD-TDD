@@ -27,10 +27,10 @@ class PrezBDDTDDCucumberTests: NSObject {
             application = XCUIApplication()
             CommonStepDefinitions.setup(application);
         }
-        
-        GestionDesVirementsGivenSteps().GestionDesVirementsGivenSteps()
-        GestionDesVirementsWhenSteps().GestionDesVirementsWhenSteps()
-        GestionDesVirementsThenSteps().GestionDesVirementsThenSteps()
+        let context = ContextGestionVirement()
+        GestionDesVirementsGivenSteps(context).GestionDesVirementsGivenSteps()
+        GestionDesVirementsWhenSteps(context).GestionDesVirementsWhenSteps()
+        GestionDesVirementsThenSteps(context).GestionDesVirementsThenSteps()
         
         let bundle = Bundle(for: PrezBDDTDDCucumberTests.self)
         Cucumberish.executeFeatures(inDirectory: "Features", from: bundle, includeTags: nil, excludeTags: nil)

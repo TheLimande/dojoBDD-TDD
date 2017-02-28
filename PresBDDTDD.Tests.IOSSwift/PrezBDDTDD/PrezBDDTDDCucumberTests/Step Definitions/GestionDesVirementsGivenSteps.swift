@@ -12,30 +12,28 @@ import Cucumberish
 
 class GestionDesVirementsGivenSteps: NSObject {
     
+    var context:ContextGestionVirement
+    
+    init(_ context: ContextGestionVirement) {
+        self.context = context
+    }
     
     func GestionDesVirementsGivenSteps() {
         
-        print("blabla")
-        
         Given("compte cheque avec un solde de ([0-9]*)") { (args, userInfo) -> Void in
-            let solde = args?[0] ?? ""
-            print("cheque:\(solde)")
+            let solde = Int((args?[0]) ?? "0") ?? 0
+            self.context.compteCheque.solde = solde
         }
         
         Given("j'ai un compte épargne avec un solde de ([0-9]*)€"){ (args, userInfo) -> Void in
-            let solde = args?[0] ?? ""
-            print("epargne:\(solde)")
+            let solde = Int((args?[0]) ?? "0") ?? 0
+            self.context.compteEpargne.solde = solde
         }
         
         Given("la limite de virement est ([0-9]*)€"){ (args, userInfo) -> Void in
-            let solde = args?[0] ?? ""
-            print("limite virement :\(solde)")
+            let limiteVirement = Int((args?[0]) ?? "0") ?? 0
+            self.context.limiteVirement = limiteVirement
         }
-
-        
-        
-
-        
         
     }
 }

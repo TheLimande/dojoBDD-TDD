@@ -21,7 +21,6 @@ Then le solde du compte épargne est 100€
 Then le virement est confirmé
 
 
-
 @RG2
 
 Scenario: Virement hors provision
