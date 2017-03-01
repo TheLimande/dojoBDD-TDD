@@ -1,0 +1,15 @@
+PODS:
+  - Cucumberish (1.1.0)
+  - XCFit (4.0.0):
+    - Cucumberish
+
+DEPENDENCIES:
+  - XCFit
+
+SPEC CHECKSUMS:
+  Cucumberish: d56601ffdabf0cf3ee2f6cce13db90430ff2c8f7
+  XCFit: cb643d570a3f4588cab3761d282e82e293c8dc2c
+
+PODFILE CHECKSUM: b0324cb862eab6ff42084e4fd6a22d3cbd30a92a
+
+COCOAPODS: 1.2.0
