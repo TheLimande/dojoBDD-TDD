@@ -68,11 +68,11 @@ public class ServiceVirementDevraitTest {
         srv.setPlafond(2);
 
         //Act
-        RetourVirement retour = srv.effectuerVirement(21, a, b);
+        RetourVirement retour = srv.effectuerVirement(3, a, b);
 
         //Assert
         Assert.assertEquals(20, a.getSolde());
         Assert.assertEquals(5, b.getSolde());
-        Assert.assertEquals(RetourVirement.SoldeDepasse, retour);
+        Assert.assertEquals(RetourVirement.PlafondDepasse, retour);
     }
 }
